@@ -13,6 +13,7 @@ Jika tidak (total harga tidak mencapai Rp. 250.000), maka pembeli tidak mendapat
 Jika salah satu proses sudah selesai diprogram, maka program akan menampilkan pertaanyan kepada pengguna apakah ingin menghitung ulang? pada simbol decision. Jika memilih iya, maka pengguna akan ditampilkan kembali ke input harga barang dan jumlah pembelian. Tapi jika memilih tidak,maka pengguna akan keluar dari program dengan simbol data dan diakhiri simbol end/selesai.
 
 2. Python
+   
 ![Screenshot 2024-09-30 214330](https://github.com/user-attachments/assets/5c356a2f-f912-49cb-85ec-4b55936c3a50)
 
 Bisa dilihat berikut adalah output dari program menghitung diskon harga barang
