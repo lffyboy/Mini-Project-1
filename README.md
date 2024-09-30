@@ -14,4 +14,5 @@ Jika salah satu proses sudah selesai diprogram, maka program akan menampilkan pe
 
 2. Python
 ![Screenshot 2024-09-30 214330](https://github.com/user-attachments/assets/5c356a2f-f912-49cb-85ec-4b55936c3a50)
+
 Bisa dilihat berikut adalah output dari program menghitung diskon harga barang
