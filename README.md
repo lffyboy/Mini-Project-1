@@ -16,4 +16,21 @@ Jika salah satu proses sudah selesai diprogram, maka program akan menampilkan pe
    
 ![Screenshot 2024-09-30 214330](https://github.com/user-attachments/assets/5c356a2f-f912-49cb-85ec-4b55936c3a50)
 
-Bisa dilihat berikut adalah output dari program menghitung diskon harga barang
+Penjelasan Python
+1. Melakukan Login
+   
+![Screenshot 2024-10-01 111844](https://github.com/user-attachments/assets/8a96074f-6027-4e68-9502-c867b5dad391)
+
+Setelah menjalankan program, terlebih dahulu harus memasukkan nama dan NIM. Jika nama dan NIM yang dimasukkan sesuai, maka program akan berlanjut ke program menghitung total harga barang.
+
+
+
+
+
+
+
+
+
+
+
+
